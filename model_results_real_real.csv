@@ -1,0 +1,18 @@
+,Feature,Probability under the Null Hypothesis, category
+16,Remoteness from the City,1.0, remoteness
+11,Humidity in the 7 Days Leading up to Event,1.0, humidity
+2,Temperature 7 Days Before Event,1.0, temperature
+3,Temperature in the 7 Days Leading up to Event,1.0, temperature
+7,Wind in the 7 Days Leading up to Event,1.0, wind
+10,Humidity 7 Days Before the Event,1.0, humidity
+0,Temperature 30 Days Before Event,1.0, temperature
+15,Precipitation in the 7 Days Leading up to Event,1.0, precipitation
+8,Humidity 30 Days Before the Event,0.858, humidity
+9,Humidity 15 Days Before the Event,0.844, humidity
+1,Temperature 15 Days Before Event,0.765, temperature
+6,Wind 7 Days Before the Event,0.62, wind
+12,Precipitation 30 Days Before the Event,0.608, precipitation
+14,Precipitation 7 Days Before the Event,0.481, precipitation
+5,Wind 15 Days Before the Event,0.17100000000000004, wind
+13,Precipitation 15 Days Before the Event,0.11499999999999999, precipitation
+4,Wind 30 Days Before the Event,0.07199999999999995, wind
